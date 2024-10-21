@@ -12,7 +12,7 @@ Sou muito dedicada em tudo que eu faço. Gosto de me desafiar profissionalmente,
 
 ## Conecte-se comigo nas redes sociais: 
 
-[![E-mail](https://img.shields.io/badge/-Email-FFF?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:jessicasilvacodes@gmail.com)
+[![E-mail](https://img.shields.io/badge/-Email-FFF?style=for-the-badge&logo=microsoft-outlook&logoColor=81a1c1)](mailto:jessicasilvacodes@gmail.com)
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jessicasilvacodes)
 
@@ -20,7 +20,7 @@ Sou muito dedicada em tudo que eu faço. Gosto de me desafiar profissionalmente,
 
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sds.jessica/)
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/55+71+981948502)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5571981948502)
 
 
 ## 🤍
