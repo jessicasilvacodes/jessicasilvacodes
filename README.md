@@ -27,7 +27,7 @@ Sou muito dedicada em tudo que eu faço. Gosto de me desafiar profissionalmente,
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=jessicasilvacodes&theme=nord&mode=daily)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jessicasilvacodes&bg_color=000&border_color=30A3DC&title_color=96A2B8&text_color=81a1c1)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jessicasilvacodes&theme=nord&layout=compact&hide=jupyter)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
