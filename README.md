@@ -2,13 +2,7 @@
 
 ### 💻🥼☕🔬📖
 
-Possuo bacharelado em Ciências Biológicas e especialização em Bioinformática. Atuei como pesquisadora por muitos anos e tenho experiência com gestão de projetos, processos e documentação, análise de dados, atendimento ao cliente e prestação de serviços. Na universidade, ganhei um concurso de melhores artigos de "Trabalho de Conclusão de Curso".
-
-Trabalhei por cinco anos como comissária de bordo na empresa LATAM Airlines, o que reforçou minhas habilidades interpessoais e me proporcionou novas experiências com atendimento ao cliente, resolução de problemas de maneira ágil, comunicação, gestão de tempo e organização, habilidades administrativas como documentação e relatórios, habilidades técnicas como uso de equipamentos e conformidade com as regulamentações, além de segurança e primeiros socorros. E no momento, estou aspirando uma migração de carreira para a área de tecnologia, ciência e análise de dados.
-
-Faço pós praduação em "Ciência de Dados aplicada à Saúde" pela PucMinas e tenho conhecimento em <b>Python, estatística, estrutura de dados, pacote Pandas, SQL, Git, Power BI e outras ferramentas de vizualização de dados</b> adquiridos com cursos livres na [DIO](https://web.dio.me/home), [Alura](https://www.alura.com.br/) e na [Udemy](https://www.udemy.com/pt/).
-
-Sou muito dedicada em tudo que eu faço. Gosto de me desafiar profissionalmente, gosto de estudar e buscar soluções inovadoras para os problemas do dia a dia ou simplesmente para facilitar a vida e a rotina diária, amo viajar e explorar lugares novos, curtir meu tempo livre lendo boas histórias de ficção e aproveitar os dias ensolarados.
+Eu sou Jessica, possuo bacharelado em Ciências Biológicas e especialização em Bioinformática. Atualmente estou fazendo pós graduação em Ciência de Dados Aplicada à Saúde e estou estudando Python, R e estatística. Estou disponível para colaborar com pesquisas e fazer parte de projetos na área de dados, biologia e bioinformática. 
 
 ## Conecte-se comigo nas redes sociais: 
 
@@ -17,7 +11,7 @@ Sou muito dedicada em tudo que eu faço. Gosto de me desafiar profissionalmente,
 
 ## 🤍
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=jessicasilvacodes&theme=nord&mode=daily)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=jessicasilvacodes&theme=nord&mode=weekly)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jessicasilvacodes&theme=nord&layout=compact&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
 
