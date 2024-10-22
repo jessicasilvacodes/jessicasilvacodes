@@ -1,8 +1,8 @@
 ## Oiê! 👋
 
-### 💻🥼☕🔬📖
-
 Eu sou Jessica, possuo bacharelado em Ciências Biológicas e especialização em Bioinformática. Atualmente estou fazendo pós graduação em Ciência de Dados Aplicada à Saúde e estou estudando Python, R e estatística. Estou disponível para colaborar com pesquisas e fazer parte de projetos na área de dados, biologia e bioinformática. 
+
+• 💻📊🥼☕🔬🧬📖 •
 
 ## Conecte-se comigo nas redes sociais: 
 
@@ -10,8 +10,6 @@ Eu sou Jessica, possuo bacharelado em Ciências Biológicas e especialização e
 
 
 ## 🤍
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=jessicasilvacodes&theme=nord&mode=weekly)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jessicasilvacodes&theme=nord&layout=compact&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
 
