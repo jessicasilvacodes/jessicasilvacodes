@@ -1,6 +1,9 @@
 ## Oiê! 👋
 
-Eu sou Jessica, possuo bacharelado em Ciências Biológicas e especialização em Bioinformática. Atualmente estou fazendo pós graduação em Ciência de Dados Aplicada à Saúde e estou estudando Python, R e estatística. Estou disponível para colaborar com pesquisas e fazer parte de projetos na área de dados, biologia e bioinformática. 
+
+Sou bacharel em Ciências Biológicas com especialização em Bioinformática. Trabalhei como comissária de bordo por cinco anos, o que aprimorou minhas habilidades interpessoais e me proporcionou uma experiência valiosa em trabalho em equipe, atendimento ao cliente, resolução de problemas, comunicação, gestão de tempo e organização.
+
+Atualmente, estou cursando pós graduação em Ciência de Dados Aplicada à Saúde, e estudando Python, R, SQL e Estatística. Estou disponível para colaborar com pesquisas e fazer parte de projetos de análise e ciência de dados, biologia e/ou bioinformática.
 
 • 💻📊🥼☕🔬🧬📖 •
 
