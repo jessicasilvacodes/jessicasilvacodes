@@ -2,7 +2,7 @@
 
 🔬 I'm a Biologist. <br/>
 🧬 I have a specialization in Bioinformatics. <br/>
-📊 I'm pursuing a post-degree in Healthcare Data Science, <br/>
+📊 I'm pursuing a post-degree in Healthcare Data Science. <br/>
 💻 Currently studying Python, SQL, R, Statistics, and Data Analysis. <br/>
 
 
